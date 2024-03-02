@@ -67,7 +67,7 @@ dart data_types.dart
 - Age: 34
 - Shirt Number: 30
 - Nationalities: {ARG: Argentina, FRA: France, ESP: Spain}
-- Assists: {La Liga: 200, Champions League: 3}
+- Assists: {La Liga: 192, Champions League: 40}
 - Height: 1.7 meters
 - Weight: 72.5 kg
 - Is the player injured? false
