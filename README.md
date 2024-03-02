@@ -57,20 +57,21 @@ After navigating to the project directory, you can run the Dart file using the `
 ```
 dart data_types.dart
 ```
+
 ### Expected Output
 
-Player Name: Lionel Messi
-Club: Paris Saint-Germain
-Skills: [Dribbling, Passing, Shooting]
-Goals: [30, 25, 20]
-Age: 34
-Shirt Number: 30
-Nationalities: {ARG: Argentina, FRA: France, BRA: Brazil}
-Assists: {La Liga: 200, Champions League: 50}
-Height: 1.7 meters
-Weight: 72.5 kg
-Is the player injured? false
-Is the player a captain? true
+- Player Name: Lionel Messi
+- Club: Paris Saint-Germain
+- Skills: [Dribbling, Passing, Shooting]
+- Goals: [30, 25, 20]
+- Age: 34
+- Shirt Number: 30
+- Nationalities: {ARG: Argentina, FRA: France, ESP: Spain}
+- Assists: {La Liga: 200, Champions League: 3}
+- Height: 1.7 meters
+- Weight: 72.5 kg
+- Is the player injured? false
+- Is the player a captain? true
 
 Replace `data_types.dart` with the name of your Dart file.
 
