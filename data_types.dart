@@ -29,11 +29,11 @@ void main() {
   Map<String, String> nationalities = {
     'ARG': 'Argentina',
     'FRA': 'France',
-    'BRA': 'Brazil',
+    'ESP': 'Spain',
   };
   Map<String, int> assists = {
-    'La Liga': 200,
-    'Champions League': 3,
+    'La Liga': 192,
+    'Champions League': 40,
   };
   print('Nationalities: $nationalities');
   print('Assists: $assists');
